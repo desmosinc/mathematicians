@@ -1,0 +1,5 @@
+name = "Alhazen"
+
+[[sources]]
+name = "DuckDuckGo"
+url = "https://duckduckgo.com/?q=Alhazen"

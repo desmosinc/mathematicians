@@ -1,0 +1,5 @@
+name = "Albert Einstein"
+
+[[sources]]
+name = "DuckDuckGo"
+url = "https://duckduckgo.com/?q=Albert%20Einstein"

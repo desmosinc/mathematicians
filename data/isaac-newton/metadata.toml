@@ -1,0 +1,5 @@
+name = "Isaac Newton"
+
+[[sources]]
+name = "DuckDuckGo"
+url = "https://duckduckgo.com/?q=Isaac%20Newton"
